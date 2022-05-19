@@ -1,6 +1,1 @@
-git branch
-git checkout
-git branch -list
-git add .
-git commit -m 
-git push --set-upstream origin
+git pull
